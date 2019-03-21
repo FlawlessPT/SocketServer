@@ -1,0 +1,17 @@
+E:\Trabalhos\12º\RC\SocketConnection\SocketConnection\bin\Debug\SocketConnection.exe.config
+E:\Trabalhos\12º\RC\SocketConnection\SocketConnection\bin\Debug\SocketConnection.exe
+E:\Trabalhos\12º\RC\SocketConnection\SocketConnection\bin\Debug\SocketConnection.pdb
+E:\Trabalhos\12º\RC\SocketConnection\SocketConnection\obj\Debug\SocketConnection.exe
+E:\Trabalhos\12º\RC\SocketConnection\SocketConnection\obj\Debug\SocketConnection.pdb
+F:\Trabalhos\12º\RC\SocketConnection\SocketConnection\bin\Debug\SocketConnection.exe.config
+F:\Trabalhos\12º\RC\SocketConnection\SocketConnection\obj\Debug\SocketConnection.exe
+F:\Trabalhos\12º\RC\SocketConnection\SocketConnection\obj\Debug\SocketConnection.pdb
+F:\Trabalhos\12º\RC\SocketConnection\SocketConnection\bin\Debug\SocketConnection.exe
+F:\Trabalhos\12º\RC\SocketConnection\SocketConnection\bin\Debug\SocketConnection.pdb
+F:\Trabalhos\12º\RC\SocketConnection\SocketConnection\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+D:\Trabalhos\12º\RC\SocketConnection\SocketConnection\bin\Debug\SocketConnection.exe.config
+D:\Trabalhos\12º\RC\SocketConnection\SocketConnection\obj\Debug\SocketConnection.exe
+D:\Trabalhos\12º\RC\SocketConnection\SocketConnection\obj\Debug\SocketConnection.pdb
+E:\Trabalhos\12º\RC\Sockets\SocketServer\SocketConnection\bin\Debug\SocketConnection.exe.config
+E:\Trabalhos\12º\RC\Sockets\SocketServer\SocketConnection\obj\Debug\SocketConnection.exe
+E:\Trabalhos\12º\RC\Sockets\SocketServer\SocketConnection\obj\Debug\SocketConnection.pdb
